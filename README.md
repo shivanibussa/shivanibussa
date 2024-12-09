@@ -19,13 +19,13 @@ Before grad school, I worked at Accolite Digital. It was like being in a tech pl
  - Be part of the whole process of creating software, from start to finish
 I used technologies like Spring Boot, C#, Python, React, Angular, and more.
 
-## What I'm Looking For? ##
+## 🤔 What I'm Looking For? ##
 I'm always on the hunt for exciting projects to work on. If you've got an idea for a full-stack project or a machine learning app that could make a difference, let's chat!
 
-## Fun Fact ##
+## ⚡ Fun Fact ##
 During my undergraduate studies, I led the CodeChef college chapter, organizing coding competitions and study sessions. This experience helped me develop my coding skills as well as leadership abilities.
 
-## My Academic Journey ##
+## 🎓 My Academic Journey ##
 I did my bachelor's in Information Technology in Hyderabad, India, and rocked it with a 9.13 GPA. Now, I'm crushing it at UT Arlington with a perfect 4.0 GPA. Not to brag, but I'm pretty proud of that!
 
 
