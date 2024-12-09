@@ -1,16 +1,36 @@
 ## Hi 👋, I'm Shivani Bussa
 
-I am a Graduate Student pursuing a Master of Science in Computer Science at the University of Texas at Arlington, with a strong focus on software development and innovative technology solutions. My journey in tech has equipped me with a diverse skill set and a passion for creating impactful applications.
+Hey there! I'm a Computer Science grad student at the University of Texas at Arlington, and I'm all about creating cool tech stuff. My journey in the tech world has been pretty exciting so far!
 
- - 🔭 I am currently enhancing my expertise in cloud computing, machine learning, and data mining, aiming to leverage these technologies to solve real-world challenges.
- - 🌱 I am continuously exploring advanced topics in AI and distributed systems, eager to apply my knowledge in practical settings.
- - 👩‍🏫 As a Graduate Teaching Assistant, I guide undergraduate students in Data Mining, helping them strengthen their programming skills in Python and R.
- - 👩‍💻 Previously, I was part of the core team at Accolite Digital, where I gained exposure to a wide range of internal tools. I collaborated with various teams to address their concerns and contributed to the development process. I was involved in every phase of the Software Development Life Cycle (SDLC) and had the opportunity to work with technologies like Spring Boot, C#, Python, React, Angular, Jenkins, version control systems, Maven, and more.
- - 👯 I’m looking to collaborate on innovative full-stack projects and machine learning applications that solve real-world problems.
- - 🤔 I’m exploring opportunities to work on scalable, enterprise-level software solutions in software development and engineering.
- - 💬 Ask me about: Java, Python, Angular, React, SQL, and cloud technologies like AWS and GCP.
- - ⚡ Fun fact: During my undergraduate years, I was actively involved in the CodeChef college chapter, where I led the team in organizing coding competitions and learning sessions. This experience not only sharpened my coding skills but also helped me develop leadership and organizational abilities as I collaborated with peers to foster a strong coding community.
- - 🎓 I hold a B.Tech in Information Technology from Anurag Group of Institutions, Hyderabad, where I graduated with a CGPA of 9.13. Currently, I'm pursuing my M.S. in Computer Science at the University of Texas at Arlington, where I am maintaining a GPA of 4.0. 
+## 🔭 What I'm Up To? ##
+Right now, I'm diving deep into some really neat areas:
+ - Cloud computing (you know, that magical place where all our data lives)
+ - Machine learning (teaching computers to think like us... sort of)
+ - Data mining (digging for digital gold in mountains of information)
+I'm not just learning this stuff for fun - I want to use it to solve real problems and make life easier for people.
+
+## 👩‍🏫 My Role as a Teaching Assistant ##
+As a Graduate Teaching Assistant, I support undergraduate students in Data Mining, helping them improve their programming skills in Python and R. It’s rewarding to see them grasp complex concepts.
+
+## 👩‍💻 My Past Adventures in Tech ##
+Before grad school, I worked at Accolite Digital. It was like being in a tech playground! I got to:
+ - Work on all sorts of cool internal tools
+ - Team up with different groups to solve their tech headaches
+ - Be part of the whole process of creating software, from start to finish
+I used technologies like Spring Boot, C#, Python, React, Angular, and more.
+
+## What I'm Looking For? ##
+I'm always on the hunt for exciting projects to work on. If you've got an idea for a full-stack project or a machine learning app that could make a difference, let's chat!
+
+## Fun Fact ##
+During my undergraduate studies, I led the CodeChef college chapter, organizing coding competitions and study sessions. This experience helped me develop my coding skills as well as leadership abilities.
+
+## My Academic Journey ##
+I did my bachelor's in Information Technology in Hyderabad, India, and rocked it with a 9.13 GPA. Now, I'm crushing it at UT Arlington with a perfect 4.0 GPA. Not to brag, but I'm pretty proud of that!
+
+
+
+So, that's me in a nutshell - a tech enthusiast who loves to learn, create, and share knowledge. If you want to geek out about Java, Python, web dev, or anything tech-related, I'm your person! Let's build something awesome together!
 
 
 <h3 align="left">Connect with me:</h3>
