@@ -4,9 +4,7 @@ Hey there! I'm a Computer Science grad student at the University of Texas at Arl
 
 ## 🔭 What I'm Up To? ##
 Right now, I'm diving deep into some really neat areas:
- - Cloud Computing: Exploring how to leverage cloud technologies for various applications.
- - Machine Learning: Learning how to create systems that can learn and adapt.
- - Data Mining: Analyzing large datasets to extract valuable insights.
+ - Cloud Computing, Machine Learning, Artificial Intelligence and Data Mining
 I'm not just learning this stuff for fun - I want to use it to solve real problems and make life easier for people.
 
 ## 👩‍🏫 My Role as a Teaching Assistant ##
