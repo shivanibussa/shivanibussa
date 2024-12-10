@@ -4,20 +4,16 @@ Hey there! I'm a Computer Science grad student at the University of Texas at Arl
 
 ## 🔭 What I'm Up To? ##
 Right now, I'm diving deep into some really neat areas:
- - Cloud computing (you know, that magical place where all our data lives)
- - Machine learning (teaching computers to think like us... sort of)
- - Data mining (digging for digital gold in mountains of information)
+ - Cloud Computing: Exploring how to leverage cloud technologies for various applications.
+ - Machine Learning: Learning how to create systems that can learn and adapt.
+ - Data Mining: Analyzing large datasets to extract valuable insights.
 I'm not just learning this stuff for fun - I want to use it to solve real problems and make life easier for people.
 
 ## 👩‍🏫 My Role as a Teaching Assistant ##
 As a Graduate Teaching Assistant, I support undergraduate students in Data Mining, helping them improve their programming skills in Python and R. It’s rewarding to see them grasp complex concepts.
 
 ## 👩‍💻 My Past Adventures in Tech ##
-Before grad school, I worked at Accolite Digital. It was like being in a tech playground! I got to:
- - Work on all sorts of cool internal tools
- - Team up with different groups to solve their tech headaches
- - Be part of the whole process of creating software, from start to finish
-I used technologies like Spring Boot, C#, Python, React, Angular, and more.
+Before grad school, I was part of the core team at Accolite Digital. There, I worked on various internal tools and collaborated with different teams to address their needs. I was involved in all phases of the Software Development Life Cycle (SDLC) and gained experience with technologies like Spring Boot, C#, Python, React, Angular, and Jenkins.
 
 ## 🤔 What I'm Looking For? ##
 I'm always on the hunt for exciting projects to work on. If you've got an idea for a full-stack project or a machine learning app that could make a difference, let's chat!
